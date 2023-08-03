@@ -27,7 +27,7 @@ I thrive on the opportunity to explore cutting-edge technologies and apply them 
 
 - <img  width = 30px height = 30px src="https://em-content.zobj.net/source/microsoft-teams/363/woman-dancing_1f483.png"> I’m looking to collaborate on **OpenSource Projects**
 
-- <img  width = 30px height = 30px src="https://em-content.zobj.net/source/skype/289/film-projector_1f4fd-fe0f.png"> All of my projects are available at **[My Portfolio]()**
+- <img  width = 30px height = 30px src="https://em-content.zobj.net/source/skype/289/film-projector_1f4fd-fe0f.png"> All of my projects are available at **[My Portfolio](https://Raj-kumarpatel.github.io/)**
 
 - <img  width = 30px height = 30px src="https://em-content.zobj.net/source/microsoft-teams/363/see-no-evil-monkey_1f648.png">How to reach me **patelrajkumar207@gmail.com**
 
